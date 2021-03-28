@@ -1,0 +1,3 @@
+enum LocaleSharedPrefKeys{
+  TOKEN
+}
